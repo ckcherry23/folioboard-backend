@@ -1,4 +1,4 @@
-# FolioBoard Back-end
+# FolioBoard Backend
 
 FolioBoard is a forum to give and receive developer portfolio reviews.
 
