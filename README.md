@@ -1,4 +1,4 @@
-# FolioBoard Back-end
+# FolioBoard Backend
 
 FolioBoard is a forum to give and receive developer portfolio reviews.
 
@@ -42,7 +42,7 @@ Main directories/files to note:
 See [here](https://go.dev/ref/mod) for more information
 * `go.sum` See [here](https://go.dev/ref/mod) for more information
 
-## Next Steps
+## Software design
 
 * This project uses [go-chi](https://github.com/go-chi/chi) as a web framework due to its simplicity and high flexibility. Other web frameworks such as [gin-gonic](https://github.com/gin-gonic/gin) were also considered. 
 * This code is designed using the [MVC framework](https://developer.mozilla.org/en-US/docs/Glossary/MVC).
