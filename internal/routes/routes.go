@@ -4,7 +4,7 @@ import (
 	"encoding/json"
 	"net/http"
 
-	"github.com/CVWO/sample-go-app/internal/handlers/users"
+	"github.com/ckcherry23/folioboard-backend/internal/handlers/users"
 	"github.com/go-chi/chi"
 )
 

@@ -1,4 +1,4 @@
-module github.com/CVWO/sample-go-app
+module github.com/ckcherry23/folioboard-backend
 
 go 1.18
 
